@@ -1,15 +1,15 @@
-# grafana-dashboard
+# GRAFANA DASHBOARD
 Criação de dashboard no Grafana, monitorando uma API.
 
 ## API USE
 
-![API USE](./img/api-use.png)
+<img src="./img/api-use.png" alt="API Use">
 
 
 ## API BASIC
 
-![API BASIC](./img/api-basic.png)
+<img src="./img/api-basic.png" alt="API Basic">
 
 ## API RED
 
-![API RED](./img/api-red.png)
+<img src="./img/api-red.png" alt="API Red">
